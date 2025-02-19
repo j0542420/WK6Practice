@@ -16,7 +16,7 @@ namespace WK6Practice
         int age;
         string sound;
 
-        //default constructor: is a method to build/inmitate the object // worker to build the object
+        //default constructor: is a method has the same name of the class to build/inmitate the object // worker to build the object
         //assign default
         public Animal()
         {
